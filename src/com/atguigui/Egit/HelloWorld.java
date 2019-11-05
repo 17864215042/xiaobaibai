@@ -8,6 +8,7 @@ public class HelloWorld {
 		System.out.println("1234");
 		System.out.println("9797");
 		System.out.println("加油加油");
+		System.out.println("太费劲了");
 	}
 
 }
